@@ -1,6 +1,4 @@
 
-Memory updated
-Here’s a basic README for your app:
 
 Parcel Route App
 Description
